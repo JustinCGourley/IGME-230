@@ -10,6 +10,7 @@ Stratagy Action game for the web
 Very simplistic 8-bit graphics, only art will be backgrounds, UI, and multiple characters. There will be a game screen, and a shop screen, (maybe more?)
 
 ## Gameplay
+
 ###What do you do in this game...
 * You play as the archer
 * Fight oncomming enemies in waves
