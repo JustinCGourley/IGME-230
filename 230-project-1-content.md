@@ -11,7 +11,7 @@ Very simplistic 8-bit graphics, only art will be backgrounds, UI, and multiple c
 
 ## Gameplay
 
-###What do you do in this game...
+What do you do in this game...
 * You play as the archer
 * Fight oncomming enemies in waves
 * Fight multiple kinds of enemies
@@ -23,7 +23,7 @@ Very simplistic 8-bit graphics, only art will be backgrounds, UI, and multiple c
 * Buy upgrades for your character to better fight against enemies
 * Purchase units to help fight alongside you
 
-###Controls
+Controls
 * WASD to move around
 * Use mouse to aim
 * Click and hold left click to shoot
