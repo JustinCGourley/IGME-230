@@ -11,22 +11,22 @@ Very simplistic 8-bit graphics, only art will be backgrounds, UI, and multiple c
 
 ## Gameplay
 What do you do in this game...
-	* You play as the archer
-	* Fight oncomming enemies in waves
-	* Fight multiple kinds of enemies
-		* Swordsman
-		* Bowmen
-		* Giants
-		* Wizards
-		* (and possibly more)
-	* Buy upgrades for your character to better fight against enemies
-	* Purchase units to help fight alongside you
+* You play as the archer
+* Fight oncomming enemies in waves
+* Fight multiple kinds of enemies
+.* Swordsman
+.* Bowmen
+.* Giants
+.* Wizards
+.* (and possibly more)
+* Buy upgrades for your character to better fight against enemies
+* Purchase units to help fight alongside you
 
 Controls
-	* WASD to move around
-	* Use mouse to aim
-	* Click and hold left click to shoot
-	* Left click on certain GUI elements to open up menus
+* WASD to move around
+* Use mouse to aim
+* Click and hold left click to shoot
+* Left click on certain GUI elements to open up menus
 
 ## Me
 Justin Gourley
