@@ -14,11 +14,11 @@ What do you do in this game...
 * You play as the archer
 * Fight oncomming enemies in waves
 * Fight multiple kinds of enemies
-.* Swordsman
-.* Bowmen
-.* Giants
-.* Wizards
-.* (and possibly more)
+..* Swordsman
+..* Bowmen
+..* Giants
+..* Wizards
+..* (and possibly more)
 * Buy upgrades for your character to better fight against enemies
 * Purchase units to help fight alongside you
 
