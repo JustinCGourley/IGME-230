@@ -29,7 +29,10 @@ Controls
 * Left click on certain GUI elements to open up menus
 
 ## Me
-Justin Gourley\n
+Justin Gourley
+
 Student at Rochester Insitite of Technology
+
 Game Development and Design Major, 2nd Year
+
 IGME-230
